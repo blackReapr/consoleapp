@@ -1,0 +1,17 @@
+C:\Users\mehem\source\repos\Academy\Academy.Service\bin\Debug\net8.0\Academy.Service.deps.json
+C:\Users\mehem\source\repos\Academy\Academy.Service\bin\Debug\net8.0\Academy.Service.dll
+C:\Users\mehem\source\repos\Academy\Academy.Service\bin\Debug\net8.0\Academy.Service.pdb
+C:\Users\mehem\source\repos\Academy\Academy.Service\bin\Debug\net8.0\Academy.Core.dll
+C:\Users\mehem\source\repos\Academy\Academy.Service\bin\Debug\net8.0\Academy.Data.dll
+C:\Users\mehem\source\repos\Academy\Academy.Service\bin\Debug\net8.0\Academy.Data.pdb
+C:\Users\mehem\source\repos\Academy\Academy.Service\bin\Debug\net8.0\Academy.Core.pdb
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\Academy.Service.csproj.AssemblyReference.cache
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\Academy.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\Academy.Service.AssemblyInfoInputs.cache
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\Academy.Service.AssemblyInfo.cs
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\Academy.Service.csproj.CoreCompileInputs.cache
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\Academy..3DF1350A.Up2Date
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\Academy.Service.dll
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\refint\Academy.Service.dll
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\Academy.Service.pdb
+C:\Users\mehem\source\repos\Academy\Academy.Service\obj\Debug\net8.0\ref\Academy.Service.dll
